@@ -1,0 +1,1 @@
+This PoC for testing resilience4j framework
